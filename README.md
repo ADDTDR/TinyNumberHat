@@ -25,3 +25,6 @@ So, gear up for a journey where Raspberry Pi meets Cold War espionage, and "Tiny
 
 ![Alt text](TinyNumberHat_back.png)
 
+I did that project only for my own amusment and to spend tiime doing something nice
+And i have dfinalty ejoyed evry minute of it  
+
