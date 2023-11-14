@@ -11,6 +11,7 @@ The enigmatic 'Tiny Number Hat 9'—where the intrigue of espionage meets the ch
 Echoing the simplicity of its Cold War origins. Rough and 'a bit how ya going' build quality of displays that vary from one exemplar to another. Not quite aligned top and bottom parts of the package, glue, or varnish residues. Sometimes it makes you think that these displays were built very questionably, though using expensive materials like gold-plated leads. Judging by the look, the case is built with good-quality plastic; after almost 50 years, the case did not disintegrate.
 
 Why 9, you ask? Well, it's not just a number; it's the magic behind the scenes, symbolizing the 8-segment displays that make this hat a numerical wizard. Well, and actual 9 displays placed on the board.
+
 The name "Tiny" isn't just for show. It's a nod to the physical stature of the displays themselves—small, but mighty in their historical significance.
 
 And let's not forget the four fiery red buttons, adding a touch of danger to your every interaction.
