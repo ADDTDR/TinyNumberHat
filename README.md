@@ -30,11 +30,11 @@ I did that project solely for my own amusement and to spend time doing something
 I have definitely enjoyed every minute of it!
 
 # Build 
-<img src="images/IMG_4518.jpeg" width="400"/>
-<img src="images/IMG_4527.jpeg" width="400"/>
-<img src="images/IMG_4520.jpeg" width="400"/>
+<img src="images/IMG_4518.jpeg" width="800"/>
+<img src="images/IMG_4527.jpeg" width="800"/>
+<img src="images/IMG_4520.jpeg" width="800"/>
 
 
-<img src="images/IMG_4530 2.jpeg" width="400"/>
-<img src="images/IMG_4538.jpeg" width="400"/>
-<img src="images/IMG_4552.jpeg" width="400"/>
+<img src="images/IMG_4530 2.jpeg" width="800"/>
+<img src="images/IMG_4538.jpeg" width="800"/>
+<img src="images/IMG_4552.jpeg" width="800"/>
