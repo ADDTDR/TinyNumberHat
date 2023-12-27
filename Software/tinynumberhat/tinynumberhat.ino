@@ -1,4 +1,5 @@
 #include <Wire.h>
+#include <unordered_map>
 
 #define HT16K33_ADDRESS_0          0x70
 #define HT16K33_TURN_ON_OSCILLATOR 0x21
@@ -8,6 +9,41 @@
 
 class TinyNumberHat {
 public:
+   std::unordered_map<char, uint8_t> numbers = {
+        {'0', 0b00111111},
+        {'1', 0b00000110},
+        {'2', 0b01011011},
+        {'3', 0b01001111},
+        {'4', 0b01100110},
+        {'5', 0b01101101},
+        {'6', 0b01111101},
+        {'7', 0b00000111},
+        {'8', 0b01111111},
+        {'9', 0b01101111},
+        {'.', 0b10000000},
+        {'P', 0b01110011},
+        {'L', 0b00111000},
+        {'A', 0b01110111},
+        {'Y', 0b01101110},
+        {'S', 0b01101101},
+        {'T', 0b01111000},
+        {'O', 0b01011100},
+        {'U', 0b00111110},
+        {'E', 0b01111001},
+        {' ', 0b00000000},
+        {'H', 0b01110110},
+        {'-', 0b01000000}
+    };
+
+  uint8_t charToBin(char ch){
+    auto it = numbers.find(ch);
+    if (it != numbers.end()) {
+        return it->second;
+    } else {
+        // Default to 0 for unknown characters
+        return 0;
+    }
+  }
   void begin() {
     Wire.begin(); // Initialize I2C
     ht16k33I2CAddress = HT16K33_ADDRESS_0;
