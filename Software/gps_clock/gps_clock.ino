@@ -74,7 +74,7 @@ public:
       Wire.endTransmission();
   }
 
-    void update(){
+  void update(){
       Wire.beginTransmission(ht16k33I2CAddress);
       Wire.write(0x00);
       for(int i = 0; i < 16; i ++){
@@ -82,6 +82,17 @@ public:
       }
       Wire.endTransmission();
   }
+
+  void clear(){
+    Wire.beginTransmission(ht16k33I2CAddress);
+    Wire.write(0x00);
+    for(int i = 0; i < 16; i ++){
+      Wire.write(0x00);
+    }
+    Wire.endTransmission();
+  }
+
+  
 private:
   uint8_t ht16k33I2CAddress;
 };
