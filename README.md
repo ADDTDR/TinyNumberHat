@@ -24,13 +24,12 @@ I have definitely enjoyed every minute of it!
 
 Red ALS314         |  Green AL304V 
 :-------------------------:|:-------------------------:
-<img src="images/IMG_4552.jpeg" width="400"  />  |  <img src="images/IMG_4530 2.jpeg" width="400" />
+<img src="images/IMG_4552.jpeg" width="400"  />  |  <img src="images/IMG_4527.jpeg" width="400"/>
+
 
 # Build 
 <img src="images/IMG_4518.jpeg" width="400"/>
-<img src="images/IMG_4527.jpeg" width="400"/>
-<img src="images/IMG_4520.jpeg" width="400"/>
-
-
-
 <img src="images/IMG_4538.jpeg" width="400"/>
+<img src="images/IMG_4520.jpeg" width="400"/>
+<img src="images/IMG_4530 2.jpeg" width="400" />
+
