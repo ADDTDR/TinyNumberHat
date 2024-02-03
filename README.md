@@ -17,15 +17,18 @@ Displays, having aged as gracefully as the IP protocol, form a perfect duo to sh
 
 I did that project solely for my own amusement and to spend time doing something enjoyable.
 I have definitely enjoyed every minute of it!
-<p float='left'>
-    
-    
-</p>
+
 
 Red ALS314         |  Green AL304V 
 :-------------------------:|:-------------------------:
 <img src="images/IMG_4552.jpeg" width="400"  />  |  <img src="images/IMG_4527.jpeg" width="400"/>
+<hr>
+Clock example
 
+<p float='left'>
+    
+ ![Alt text](images/IMG_4529.gif)   
+</p>
 
 # Build 
 <img src="images/IMG_4518.jpeg" width="400"/>
