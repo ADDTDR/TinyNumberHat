@@ -33,6 +33,6 @@ Clock example
 # Build 
 <img src="images/IMG_4518.jpeg" width="400"/>
 <img src="images/IMG_4538.jpeg" width="400"/>
-<img src="images/IMG_4520.jpeg" width="400"/>
+<!--img src="images/IMG_4520.jpeg" width="400"/-->
 <img src="images/IMG_4530 2.jpeg" width="400" />
 
