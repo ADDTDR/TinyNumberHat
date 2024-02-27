@@ -54,12 +54,18 @@ class TinynumberHat():
                         'Y': 0b01101110,
                         'S': 0b01101101,
                         'T': 0b01111000,
+                        'K': 0b01011001,
                         'O': 0b01011100,
                         'U': 0b00111110,  
                         'E': 0b01111001,
+                        'F': 0b01110001,
                         ' ': 0b00000000,
                         'H': 0b01110110, 
                         'M': 0b00010101,
+                        'N': 0b01010100,
+                        'I': 0b00110000,
+                        'Q': 0b01100111,
+                        'R': 0b01010000,
                         '-': 0b01000000,
                 }
 
@@ -121,7 +127,8 @@ class TinynumberHat():
 if __name__ == "__main__":
         tinynumberhat = TinynumberHat()
         tinynumberhat.show_string('DEPECHE MODE ')
-        text = 'DEPECHE MODE'
+        text = 'ABCDEFGHIJKLMNOPQRSTU'
+        
         while True:
             text = text[1:] + text[:1]
             tinynumberhat.show_string(text)
