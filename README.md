@@ -1,22 +1,15 @@
-# TinyNumberHat,  time-traveling hardware prodigy 
+# TinyNumberHat 
+I was looking at some retro displays on https://www.industrialalchemy.org.
 
-Introducing a distinctive open-source hardware project—a compact expansion board centered around the HT16K33 LED driver.
-![alt text](images/TinyNumberHat_back.png)
-What sets this apart is its integration of niche, obscure, and obsolete displays from the 1970 Cold War era, such as the AL304V, A, or ALS314 display, adding a touch of history to modern technology.
-
-All to enhance user interaction.
-
+One day, I saw those ALS314 displays on a local eBay analog, and I immediately knew that I needed to build something using them.
+So, I decided to build an RPi Zero extension hat.
 
 <!-- ![Alt text](TinyNumberHat_front.png)
 
 ![Alt text](TinyNumberHat_back.png)
   -->
  
-Displays, having aged as gracefully as the IP protocol, form a perfect duo to showcase the IP address of your Raspberry Pi ;)
-<br>This gives  a massive advantage in the uproarious game of 'Guess the IP' on your Raspberry Pi :) 
 
-I did that project solely for my own amusement and to spend time doing something enjoyable.
-I have definitely enjoyed every minute of it!
 
 
 Red ALS314         |  Green AL304V 
