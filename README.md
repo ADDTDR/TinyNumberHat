@@ -1,8 +1,7 @@
 # TinyNumberHat 
-I was looking at some retro displays on https://www.industrialalchemy.org.
 
-One day, I saw those ALS314 displays on a local eBay analog, and I immediately knew that I needed to build something using them.
-So, I decided to build an RPi Zero extension hat.
+
+
 
 <!-- ![Alt text](TinyNumberHat_front.png)
 
